@@ -1,9 +1,13 @@
 ---
-title: Compatibility, Regretting Life Choices
-description: Getting started with personal-web
+title: Compatibility and Regrets
+description: Discussion about compatibility trade-offs
 date: "2020-02-18T20:43:00+02:00"
 publishDate: ""
 ---
+
+Supporting old technology isn't always terrible.
+
+<!--more-->
 
 Today I realized I can't play half the Steam games in my library because I upgraded to MacOS Catalina. How I didn't notice this would be an issue is beyond me. Maybe I was blinded by my own work making products play nice even when they have no business doing so. Maybe the upgrade message got so annoying I caved without thinking. Maybe I just hadn't realized how many games I own. 
 
@@ -16,6 +20,3 @@ The best version of compatibilty, if I'm being generous, is a project I'm curren
 Those two compatibility extremes got me thinking about another issue I've discussed with clients in the past. The SCORM profile for xAPI. I will be the first one to admit that I am shocked this idea works as well as it does. [Dual tracking](http://adlnet.github.io/xAPI-SCORM-Profile/dev/dual-track.html) to an LMS and an LRS is an interesting idea that would be helpful for clients that have both SCORM and xAPI courses. There is definitely a "move from LMS to LRS" application here. Long term I hope no company is insisting their tech team support storing student information in two seperate locations. That is biggest strike against trying to be both SCORM and xAPI. Another point is that you lose the broad profile scope available in xAPI by adhering to SCORM limitations. Of course in a situation where moving to an LRS makes sense the SCORM profile is a non-issue. Future courses would simply be created with an agreed upon xAPI profile that hopefully isn't too tied to SCORM. 
 
 Changing technology guarantees features, products, browsers, what have you, will wind up being incompatible at some point. I know that's a vague way to put it but it honestly is that broad. Compatibility within programming is just a microcosm of adaptation in general. Given enough coffee I could go on about this forever. Especially since I have a lot more free time now that I can't play Planet Coaster, Party Hard, Lume... etc. 
-
-<!--more-->
-
