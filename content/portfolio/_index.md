@@ -3,4 +3,4 @@ title: PORTFOLIO
 description: 'Portfolio Section'
 ---
 
-General portfolio introduction
+Personal projects I am currently working on

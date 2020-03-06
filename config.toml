@@ -76,12 +76,12 @@ cloudFrontDistributionID = "E138E5OFQEZ7BM"
   url = "/about/"
   weight = -120
 
-#[[menu.main]]
-#  identifier = "portfolio"
-#  name = "Portfolio"
-#  title = "Portfolio"
-#  url = "/portfolio/index.html"
-#  weight = -110
+[[menu.main]]
+  identifier = "portfolio"
+  name = "Portfolio"
+  title = "Portfolio"
+  url = "/portfolio/index.html"
+  weight = -110
 
 [[menu.main]]
   identifier = "blog"
