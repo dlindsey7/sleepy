@@ -1,7 +1,7 @@
 ---
 title: Home
 description: Here's an overview of what I'm doing
-images: ["/images/sample.jpg"]
+images: ["/images/purple.jpg"]
 ---
 
 # Hey There!
