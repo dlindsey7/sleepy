@@ -1,6 +1,6 @@
 ---
-title: Home
-description: Here's an overview of what I'm doing
+title: Sleep Deprived Programmer
+description: Web development blog and portfolio
 images: ["/images/purple.jpg"]
 ---
 
