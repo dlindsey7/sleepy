@@ -63,8 +63,8 @@ cloudFrontDistributionID = "E138E5OFQEZ7BM"
   #keybase = "https://keybase.io/"
 
 [params.contact]
-  email = ""
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+  email = "dlindsey@alcamine.com"
+  text= "Contact Me" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
