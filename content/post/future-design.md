@@ -8,7 +8,7 @@ publishDate: ""
 I wish this meant I was building a time machine out of a cardboard DeLorean powered by tapping into my subconcious. In actuality it means weighing out client v. server side changes.  
 
 <!--more-->
- I'm currently working on a [side project](/portfolio/aerials-app-project) that will take in aerial skill names and display them. That sounds so incredibly simple. I'm sure you've heard similar pitches. One sentence. Super concise. Maybe throw in a buzzword or two. Then comes the explanation. Suddenly you're looking at a ginormous amount of work. 
+ I'm currently working on a [side project](/portfolio/aerials-app-project/) that will take in aerial skill names and display them. That sounds so incredibly simple. I'm sure you've heard similar pitches. One sentence. Super concise. Maybe throw in a buzzword or two. Then comes the explanation. Suddenly you're looking at a ginormous amount of work. 
 
 In my case I'm the one who came up with the project but the issue is a pretty complex language problem. Aerial terminology has a decent amount of overlap. It's similar to dialects or regional phrases. I'd like to create a mobile friendly site that allows users to search a word or phrase. The results will have descriptions that will (hopefully) facilitate communication. The descriptions and examples should help make it clear that say, a "standard climb" and a "basic climb" are the same thing. 
 
