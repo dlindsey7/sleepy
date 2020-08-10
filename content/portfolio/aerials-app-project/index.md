@@ -10,6 +10,6 @@ thumbnail: aerials-app-project/image.png
 projectUrl: https://github.com/dlindsey7/aerials-app
 ---
 
-This is an app designed to track aerial skills in order to facilitate communication between aerialists.
+This is an app designed to track aerial skills in order to facilitate communication between aerialists. The tech stack is MongoDB, Go, and React.
 
 A common issue amongst aerialists is the fact that moves are often given different names in different countries and communities. Aerial arts are supported by a large community where people can have five different names for the exact same move. This app hopes to keep track of skill names with example images and links.
